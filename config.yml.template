@@ -2,41 +2,58 @@
 # gmail
 SMTP_SERVER: smtp.gmail.com
 SMTP_PORT: 587
-USERNAME: you@gmail.com
-PASSWORD: "you're-password"
+USERNAME: secretl104santa@gmail.com
+PASSWORD: "Edw3afx1"
 
 TIMEZONE: 'US/Pacific'
 
 PARTICIPANTS:
-  - Chad <chad@somewhere.net>
-  - Jen <jen@gmail.net>
-  - Bill <Bill@somedomain.net>
-  - Sharon <Sharon@hi.org>
+  - AliBora <albali.20@robcol.k12.tr>
+  - Arda <kunard.20@robcol.k12.tr>
+  - Basak <atmbas.20@robcol.k12.tr>
+  - Beril <gurber.20@robcol.k12.tr>
+  - DefneS. <saydef.20@robcol.k12.tr>
+  - DefneT. <tundef.20@robcol.k12.tr>
+  - EceA. <akdece.20@robcol.k12.tr>
+  - EceS. <balece.20@robcol.k12.tr>
+  - Eda <kareda.20@robcol.k12.tr>
+  - Efe <gelefe.20@robcol.k12.tr>
+  - Egecan <aktege.20@robcol.k12.tr>
+  - Egemen <suuege.20@robcol.k12.tr>
+  - Ege <gureli.20@robcol.k12.tr>
+  - Emre <muremr.20@robcol.k12.tr>
+  - Doruk <ozmhas.20@robcol.k12.tr>
+  - Mete <durmete.20@robcol.k12.tr>
+  - Ozan <baloza.20@robcol.k12.tr>
+  - Pinar <sumpin.20@robcol.k12.tr>
+  - Sevval <akksev.20@robcol.k12.tr>
+  - Zeynep <kizzey.20@robcol.k12.tr>
+  - Onat <oncona.20@robcol.k12.tr>
+  - Erim <guneri.20@robcol.k12.tr>
+  - Yigit <senyig.20@robcol.k12.tr>
 
-
-# Warning -- if you mess this up you could get an infinite loop
 DONT-PAIR:
-  - Chad, Jen    # Chad and Jen are married
-  - Chad, Bill   # Chad and Bill are best friends
-  - Bill, Sharon
+  - Gotta, Have
+# Warning -- if you mess this up you could get an infinite loop
+
 
 # From address should be the organizer in case participants have any questions
 FROM: You <you@gmail.net>
 
-# Both SUBJECT and MESSAGE can include variable substitution for the 
+# Both SUBJECT and MESSAGE can include variable substitution for the
 # "santa" and "santee"
 SUBJECT: Your secret santa recipient is {santee}
-MESSAGE: 
+MESSAGE:
   Dear {santa},
-  
+
   This year you are {santee}'s Secret Santa!. Ho Ho Ho!
-  
-  The maximum spending limit is 50.00
-  
-  
-  This message was automagically generated from a computer. 
-  
+
+  Feel free to spend as you wish, but try to stay in between 20 and 200.
+
+  This message was automagically generated from a computer.
+
   Nothing could possibly go wrong...
-  
-  http://github.com/underbluewaters/secret-santa
-  
+
+  --Coded with love by Yigit Sen--
+
+  http://github.com/senyig20/secret-santa
