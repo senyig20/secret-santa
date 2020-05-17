@@ -6,6 +6,11 @@ randomly assigning pairings and sending emails. It can avoid pairing
 couples to their significant other, and allows custom email messages to be 
 specified.
 
+Confessions by @senyig20
+------------
+
+OK, so, if that person that knows herself, yes, I rigged this so that I would get you a gift and vice versa. No regrets. 
+
 Dependencies
 ------------
 
