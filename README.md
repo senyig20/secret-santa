@@ -9,7 +9,7 @@ specified.
 Confessions by @senyig20
 ------------
 
-OK, so, if that person that knows herself, yes, I rigged this so that I would get you a gift and vice versa. No regrets. 
+OK, so, if that person that knows herself reads this, yes, I rigged this so that I would get you a gift and vice versa. No regrets. 
 
 Dependencies
 ------------
